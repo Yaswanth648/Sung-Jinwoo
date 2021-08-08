@@ -49,7 +49,9 @@ from telegram.error import (
 from telegram.ext import (
     CallbackContext, 
     CallbackQueryHandler,
-    Filters, 
+    Filters,
+    MessageHandler,
+    CommandHandler,
 )
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
