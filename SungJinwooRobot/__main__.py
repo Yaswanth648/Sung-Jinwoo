@@ -56,7 +56,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello there, My Name is [Dranzer](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
+Hello there, My Name is [🐉Dranzer](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
 I am a Anime Themed Group managing bot from Telugu Toon Street 
 I will help you manage your group.
 ✏️ Click Below help button or send /help to know all my Commands.
