@@ -56,15 +56,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello there, My Name is [Sung Jin-Woo](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
-I am a Anime Themed Group managing bot from Solo leveling
+Hello there, My Name is [Dranzer](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
+I am a Anime Themed Group managing bot from Telugu Toon Street 
 I will help you manage your group.
 ✏️ Click Below help button or send /help to know all my Commands.
 """
 buttons = [
     [        
         InlineKeyboardButton(
-        text="☑️Add Sung Jin-woo to your Group", url="t.me/SungJinWooRobot?startgroup=true"
+        text="☑️Add Dranzer to your Group", url="t.me/TGDranzer_Bot?startgroup=true"
         ),
     ],
     [        
@@ -72,7 +72,7 @@ buttons = [
         text="🚔 Support", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-        text="📚 Solo Leveling", url=f"https://t.me/Solo_Leveling_Webtoon"
+        text="📚 Cartoon Channel", url=f"https://t.me/TeluguToonStreet"
         ),
     ],
     [
